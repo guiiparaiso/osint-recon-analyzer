@@ -19,7 +19,7 @@ Certifique-se de ter o Python instalado na sua máquina. Em seguida, clone o rep
 
 ```bash
 # Clone o repositório
-git clone [https://github.com/SEU-USUARIO/osint-recon-analyzer.git](https://github.com/SEU-USUARIO/osint-recon-analyzer.git)
+git clone https://github.com/guiiparaiso/osint-recon-analyzer.git
 
 # Entre na pasta do projeto
 cd osint-recon-analyzer
